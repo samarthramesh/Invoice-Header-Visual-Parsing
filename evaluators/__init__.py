@@ -1,0 +1,5 @@
+
+from evaluators.formsboxdetect_printer import FormsBoxDetect_printer
+from evaluators.formsgraphpair_printer import FormsGraphPair_printer
+from evaluators.formsfeaturepair_printer import FormsFeaturePair_printer
+
